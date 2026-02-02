@@ -1,25 +1,36 @@
-# Self-assembly of Berberine-based Herbal Small Molecules
+# Self-assembly of Herbal Small Molecules (Berberine)
 
 ## Overview
-This repository presents a reproducible workflow for studying the self-assembly and antibacterial mechanisms of herbal small molecules (e.g. berberine) using molecular dynamics simulations and data analysis.
-The project is part of my MSc research at Nanjing Agricultural University, focusing on self-assembly behavior relevant to antimicrobial applications in aquaculture.
+This repository presents a reproducible workflow for studying the self-assembly behavior of herbal small molecules (e.g. berberine) using molecular dynamics simulations and data analysis.
+
+This project is part of my MSc research at Nanjing Agricultural University, focusing on antimicrobial mechanisms relevant to aquaculture disease control.
+
+## Research Question
+How do berberine molecules self-assemble in aqueous environments, and what structural features may be related to their antibacterial activity?
 
 ## Methods
 - Molecular Dynamics simulations using **GROMACS**
-- Force field: (e.g. GAFF / OPLS/AA — specify if known)
-- Trajectory analysis and visualization using **Python** (MDAnalysis, NumPy, Matplotlib)
+- Trajectory analysis using **Python** (NumPy, Matplotlib, MDAnalysis)
+- Data visualization and statistical analysis
 
 ## Repository Structure
-- `notebooks/analysis.ipynb`: end-to-end analysis pipeline (load trajectory → analyze → plot)
-- `scripts/`: example scripts for running MD simulations
-- `results/figures/`: key figures generated from simulations
-## Key Results (Preliminary)
-Below is an example result illustrating aggregation behavior of berberine molecules during MD simulation:
-![example_figure](results/figures/example.png)
+- `notebooks/analysis.ipynb`: end-to-end analysis workflow
+- `results/figures/`: figures generated from simulations
+- `scripts/`: example scripts for running simulations (to be added)
 
-## Reproducibility
-The analysis can be reproduced by running the notebook:
-```bash
-conda env create -f environment.yml
-conda activate selfassembly
-jupyter notebook notebooks/analysis.ipynb
+## Current Status
+- Simulation system setup completed
+- Preliminary trajectory analysis in progress
+- Figures and quantitative analysis will be updated
+
+## About Me
+Jia Lee  
+MSc student, Aquaculture  
+Nanjing Agricultural University  
+
+Research interests:  
+- Molecular self-assembly  
+- Antibacterial mechanisms of herbal compounds  
+- Molecular dynamics simulations  
+
+Contact: your_email@xxx.com
