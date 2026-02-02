@@ -24,7 +24,7 @@ How do berberine molecules self-assemble in aqueous environments, and what struc
 - Figures and quantitative analysis will be updated
 
 ## About Me
-Jia Lee  
+Jiahao Lv  
 MSc student, Aquaculture  
 Nanjing Agricultural University  
 
@@ -33,4 +33,4 @@ Research interests:
 - Antibacterial mechanisms of herbal compounds  
 - Molecular dynamics simulations  
 
-Contact: your_email@xxx.com
+Contact: lvjh0618@163.com 
