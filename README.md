@@ -6,7 +6,7 @@ The project is part of my MSc research at Nanjing Agricultural University, focus
 
 ## Methods
 - Molecular Dynamics simulations using **GROMACS**
-- Force field: (e.g. CHARMM / AMBER — specify if known)
+- Force field: (e.g. GAFF / OPLS/AA — specify if known)
 - Trajectory analysis and visualization using **Python** (MDAnalysis, NumPy, Matplotlib)
 
 ## Repository Structure
