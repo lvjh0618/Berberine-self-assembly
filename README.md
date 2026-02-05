@@ -40,13 +40,14 @@ This project is a core component of my MSc research at **Nanjing Agricultural Un
 └── README.md               # Project documentation[Your Profile Link - Optional]
 
 📈 Current Status
-[x] Initial system setup and topology generation.
+[√] Initial system setup and topology generation.
 
-[x] 100ns production run for Berberine clusters.
+[√] 50ns production run for Berberine clusters.  
+[√] 50ns Berberine 簇的生产运行。
 
-[ ] Post-simulation analysis (RMSD/Rg/H-Bonds) - In Progress.
+[√] Post-simulation analysis (RMSD/Rg/H-Bonds) - In Progress.
 
-[ ] Free energy landscape calculation - Planned.
+[√] Free energy landscape calculation - Planned.
 
 👨‍🔬 About Me
 Jiahao Lv (吕佳豪) MSc Student in Aquaculture, Nanjing Agricultural University Research Interests: * Molecular Self-assembly
