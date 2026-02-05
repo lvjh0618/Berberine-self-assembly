@@ -18,7 +18,7 @@ This project is a core component of my MSc research at **Nanjing Agricultural Un
 ---
 
 ## 🛠 Methodology & Tools
-* **Simulation Engine:** `GROMACS` (Force fields: CHARMM36 / GAFF).
+* **Simulation Engine:** `GROMACS` (Force fields: OPLS/AA / GAFF).
 * **Trajectory Analysis:** Custom `Python` scripts using `MDAnalysis`, `MDTraj`, and `NumPy`.
 * **Data Visualization:** `Matplotlib` & `Seaborn` for plotting; `PyMOL` for 3D molecular rendering.
 * **Statistical Computing:** `R` for advanced data correlation.
